@@ -1,0 +1,17 @@
+baseURL: https://example.com
+theme: hugo-bearblog
+title: Hugo ʕ•ᴥ•ʔ Bear Blog
+author: Jane Doe
+copyright: Copyright © 2020, Jane Doe.
+languageCode: en-US
+enableRobotsTXT: yes
+disableKinds: taxonomy
+ignoreErrors: error-disable-taxonomy
+permalinks:
+  blog: /:slug/
+  tags: /blog/:slug
+params:
+  description: 'Hugo + Bear = :heart:'
+  favicon: images/favicon.png
+  images: images/share.png
+  title: Hugo ʕ•ᴥ•ʔ Bear
