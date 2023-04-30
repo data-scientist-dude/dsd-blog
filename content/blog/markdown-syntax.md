@@ -1,10 +1,11 @@
 ---
-date: "2020-01-03"
+date: "2023-04-30"
 description: Sample article showcasing basic Markdown syntax and formatting for HTML
   elements.
 tags:
 - markdown
 - syntax
+- shiny
 title: Markdown Syntax Guide
 ---
 
