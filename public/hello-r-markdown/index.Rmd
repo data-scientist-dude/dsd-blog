@@ -10,7 +10,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 # R Markdown
 
-This is an R Markdown document. Our R Markdown is a very simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+This is an R Markdown document. Markdown is a very simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 You can easily embed an R code chunk that looks something like this:
 
