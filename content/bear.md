@@ -3,7 +3,7 @@ menu: main
 title: Bear
 ---
 
-# Bear
+### Bear
 
 Website: https://bearblog.dev
 
