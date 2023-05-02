@@ -3,7 +3,7 @@ menu: main
 title: About
 ---
 
-# JT
+# JT Miller
 
 work: https://github.com/data-scientist-dude
 
