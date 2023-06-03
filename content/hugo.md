@@ -15,7 +15,7 @@ Data drives your modern life, and together we can make sense of it. Data is gene
 
 I want to help people understand the basic, intermediate and advanced concepts of data science. Statistics, data wrangling, analysis, models and visualization are my intellectual passions. 
 
-I break down subjects to the brass tacks, clearly explaining key principles. Follow me on [Medium]() and join using this link in order to support my efforts. Your membership rate is the same low rate and I benefit from helping to grow this platform for writers.
+I break down subjects to the brass tacks, clearly explaining key principles. Follow me on [Medium](https://datascientistdude.medium.com/) to learn more about best data practices.
 
 I help people understand and use data models.
 
