@@ -1,9 +1,9 @@
 ---
 menu: main
-title: Bear
+title: Portfolio
 ---
 
-# Bear is Here
+# Data is for everyone
 
 Website: https://bearblog.dev
 
