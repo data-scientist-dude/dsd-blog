@@ -1,6 +1,6 @@
 ---
 title: "Hello R Markdown"
-author: "Frida Gomam"
+author: "Frixa Gomam"
 date: "2020-12-01"
 ---
 
