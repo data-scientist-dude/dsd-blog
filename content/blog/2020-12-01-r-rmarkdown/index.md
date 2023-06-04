@@ -1,6 +1,6 @@
 ---
 title: "Hello R Markdown"
-author: "Frida Gomam"
+author: "Frixa Gomam"
 date: "2020-12-01"
 ---
 
@@ -50,5 +50,5 @@ pie(
 
 <div class="figure">
 <img src="{{< blogdown/postref >}}index_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
-<p class="caption">Figure 1: A fancy pie chart.</p>
+<p class="caption"><span id="fig:pie"></span>Figure 1: A fancy pie chart.</p>
 </div>
